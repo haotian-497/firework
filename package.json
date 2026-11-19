@@ -1,0 +1,17 @@
+{
+  "name": "firework",
+  "version": "1.0.0",
+  "description": "绽夜：浏览器里的多人烟花夜空，支持实时协作、自然语言生成和按日期还原银河。",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.22.0"
+  }
+}

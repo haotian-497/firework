@@ -1,0 +1,21 @@
+node_modules/
+.env
+.env.*
+!.env.example
+npm-debug.log*
+cloudflared.exe
+.firework-port
+
+# 本地备稿，不进入公开仓库
+简历项目描述-绽夜.md
+简历条目-绽夜-精简版.md
+PRD撰写要求.md
+PRD撰写要求-v2.md
+Notion作品集-绽夜.md
+交互流程与状态机.md
+交互流程图.mmd
+交互流程图.png
+版本一.html
+版本二.html
+版本三.html
+版本四.html
